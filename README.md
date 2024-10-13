@@ -10,3 +10,7 @@
     <img alt="read before" src="https://github.com/pessanitalo/Assets/blob/main/Docker.jpg" height="300" />
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+     <img alt="read before" src=https://github.com/pessanitalo/Assets/blob/main/Forma%C3%A7%C3%A3o%20angular%2013.jpg height="300" />
+</div>
+
