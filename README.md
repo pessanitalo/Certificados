@@ -15,3 +15,7 @@
      <img alt="read before" src="https://github.com/pessanitalo/Assets/blob/main/C%23%20Solid%20na%20pratica.jpg" height="300" />
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+    <img alt="read before" src="https://github.com/pessanitalo/Assets/blob/main/Teeraform-basico-ao-avancado.jpg" height="300" />
+</div>
+
