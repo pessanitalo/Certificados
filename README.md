@@ -12,5 +12,6 @@
 
 <div style="display: flex; justify-content: space-between;">
     <img alt="read before" src="https://github.com/pessanitalo/Assets/blob/main/Poo%20C%23.jpg" height="300" />
+     <img alt="read before" src="https://github.com/pessanitalo/Assets/blob/main/C%23%20Solid%20na%20pratica.jpg" height="300" />
 </div>
 
