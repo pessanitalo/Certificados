@@ -2,6 +2,7 @@
 
 <div style="display: flex; justify-content: space-between;">
      <img alt="read before" src="https://github.com/pessanitalo/Certificados/blob/main/certificado%20kubernetes.jpg" height="200" />
+     <img alt="read before" src="https://github.com/pessanitalo/Certificados/blob/main/certificado%20terraform.jpg" height="200" />
 </div>
 
 <div style="display: flex; justify-content: space-between;">
